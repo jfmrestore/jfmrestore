@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jfmrestore
 - 👀 I’m interested in real time application
 - 🌱 I’m currently learning c# and new programming language 
-- 💞️ I’m looking to collaborate on industrial, ia and Geospatial projects 
+- 💞️ I’m looking to collaborate on industrial back end, ia and Geospatial projects 
 - 📫 You can send me email to contact me
 
 <!---
